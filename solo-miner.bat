@@ -1,0 +1,1 @@
+velocitycoinminer -o 127.0.0.1:21334 -u username -p password --scrypt --Nfmin 4 --Nfmax 30 --StartT 1387769316

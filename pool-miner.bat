@@ -1,0 +1,1 @@
+velocitycoinminer.exe --scrypt -o poolurl  -u poolusername -p poolpassword  --scrypt --Nfmin 4 --Nfmax 30 --StartT 1387769316
